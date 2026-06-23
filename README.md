@@ -1,18 +1,5 @@
 # Análisis_Bizarro_AN
-Repositorio del proyecto Aplicacion de la Transformada Rapida de Fourier
-en el Filtrado de Imagenes en el Dominio de Frecuencias. El proyecto combina investigación teórica y análisis práctico mediante notebooks de Python.
-
-# Estructura del Repositorio
-Analisis_Bizarro_AN/
-│
-├──Investigacion Teorica/
-│   ├── main.tex
-│   ├── FOURIER EN EL FILTRADO DE IMAGENES.pdf
-│   └── figuras/
-│
-└──FFT IMAGES/
-    ├── AnalisisBizarroNotebook.ipynb
-    └── (imágenes de prueba)
+Repositorio del proyecto Aplicacion de la Transformada Rapida de Fourieren el Filtrado de Imagenes en el Dominio de Frecuencias. El proyecto combina investigación teórica y análisis práctico mediante notebooks de Python.
 
 # Descripción de Carpetas
 ## Investigacion Teorica
